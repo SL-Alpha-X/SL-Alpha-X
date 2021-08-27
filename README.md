@@ -26,7 +26,12 @@
  ___
  
 
-<p align="center"><a href="https:github.com/SL-Alpha-X"><img src="https://telegra.ph/file/acdd3b748883b1bb81535.jpg" width="400"></a></p>
+<p align="center"><a href="https://github.com/SL-Alpha-X-Team"><img src="https://telegra.ph/file/acdd3b748883b1bb81535.jpg" width="400"></a></p>
+
+---
+ ___
+
+<p align="center"><a href="https://chat.whatsapp.com/Ku8MincABBWAEOaG44PqZE"><img src="https://telegra.ph/file/2bbf2cc997a7065124827.jpg" width="400"></a></p>
 
 ---
  ___
