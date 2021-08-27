@@ -20,7 +20,7 @@
 ---
  ___
  
-<p align="center"><a href="🙂"><img src="https://telegra.ph/file/f55fee6c9a87b5899e38f.jpg" width="400"></a></p>
+<p align="center"><a href="t.me/Alpha_X_0_X_Alpha"><img src="https://telegra.ph/file/7d8f31f13b6631242752d.jpg" width="400"></a></p>
 
 ---
  ___
