@@ -19,17 +19,20 @@
 
 ---
  ___
- 
+ <h1 align="center"><b> 📚 Owner - @SL-Alpha-X-Team 💡 </b></h1> 
+
 <p align="center"><a href="https://github.com/SL-Alpha-X"><img src="https://telegra.ph/file/7d8f31f13b6631242752d.jpg" width="400"></a></p>
 
 ---
  ___
  
+<h1 align="center"><b>🚨 Alpha-X-Bot Coming Soon... 🚨</b></h1> 
 
 <p align="center"><a href="https://github.com/SL-Alpha-X-Team"><img src="https://telegra.ph/file/acdd3b748883b1bb81535.jpg" width="400"></a></p>
 
 ---
  ___
+<h1 align="center"><b>🇱🇰 Alpha-X Sup Group 📌️</b></h1> 
 
 <p align="center"><a href="https://chat.whatsapp.com/Ku8MincABBWAEOaG44PqZE"><img src="https://telegra.ph/file/2bbf2cc997a7065124827.jpg" width="400"></a></p>
 
