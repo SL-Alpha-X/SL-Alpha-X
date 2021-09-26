@@ -23,14 +23,14 @@
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=28&width=330&lines=....................."
+            src="https://readme-typing-svg.herokuapp.com?size=28&width=495&lines=<Creating+New+Alpha-X+WA+Bot>"
             alt="Typing SVG"
         />
     </a>
 </p>
 
 <p align='center'>
-  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" /> </a>
+  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="75" /> </a>
 </p>
 
 ## <h1 align="center"> 💝 << Alpha >> 🍁</h1>
