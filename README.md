@@ -1,7 +1,6 @@
 
-<!---------- Typing SVG ---------->
 <p align="center">
-    <a href="https://avatars.githubusercontent.com/u/85664936?v=10">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/edit/main/README.md">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=30&width=300&lines=Hello+Im+MALINDU"
             alt="Typing SVG"
@@ -9,7 +8,6 @@
     </a>
 </p>
 
-<!---------- Typing SVG ---------->
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/8664936?v=4">
         <img
@@ -19,7 +17,6 @@
     </a>
 </p>
 
-<!---------- Typing SVG ---------->
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
@@ -30,12 +27,20 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="75" /> </a>
+  <a href="github.com/SL-Alpha-X" > <img src="https://c.tenor.com/lUFliafCu_MAAAAd/hello.gif"width="100" /> </a>
 </p>
 
-## <h1 align="center"> 💝 << Alpha >> 🍁</h1>
+---
 
-<!-- programming langs i work-->
+<p align="center">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/edit/main/README.md">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=35&width=400&lines=💝+<+<+Alpha+>+>+🍁"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
@@ -45,24 +50,119 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 
----
- ___
- <h1 align="center"><b> 📚 Owner - @SL-Alpha-X-Team 💡 </b></h1> 
+<br> <br> 
 
-<p align="center"><a href="https://github.com/SL-Alpha-X"><img src="https://telegra.ph/file/7d8f31f13b6631242752d.jpg" width="400"></a></p>
+<p align="center">     
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=300px>
+</p>
+
+<br>
 
 ---
- ___
+
+ <p align="center">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/edit/main/README.md">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=500&lines=📚+Owner+-+@SL-Alpha-X-Team+💡"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+<p align="center"><a href="https://github.com/SL-Alpha-X"><img src="https://telegra.ph/file/7d8f31f13b6631242752d.jpg" width="300"></a></p>
+
+
+---
+
+<p align="center"> 
+ <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" height="450" width="900" />
+</p>
+
+---
+
+ <p align="center">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/edit/main/README.md">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+Alpha's+github+stats+>>"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SL-Alpha-X&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Alpha's Github Stats">
+</p>
+
+---
+
+ <p align="center">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/edit/main/README.md">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+Most+used+languages+>>"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=SL-Alpha-X&theme=dark&show_icons=true)
+
+---
+
+ <p align="center">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/edit/main/README.md">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=800&lines=Aaahhhhhh+!!+My+contribution+grapgh+is+getting+eaten...+😶"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+<br> 
+
+<p align="center"> 
+ <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
+</p>
+
+---
+
+<br>
+
+---
+
+ <p align="center">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/edit/main/README.md">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=36&width=500&lines=<<+Visitors+Count+>>"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+<br>
+
+---
  
-<h1 align="center"><b>🚨 Alpha-X-Bot Coming Soon... 🚨</b></h1> 
-
-<p align="center"><a href="https://github.com/SL-Alpha-X-Team"><img src="https://telegra.ph/file/acdd3b748883b1bb81535.jpg" width="400"></a></p>
-
----
- ___
-<h1 align="center"><b>🇱🇰 Alpha-X Sup Group 📌️</b></h1> 
-
-<p align="center"><a href="https://chat.whatsapp.com/Ku8MincABBWAEOaG44PqZE"><img src="https://telegra.ph/file/2bbf2cc997a7065124827.jpg" width="400"></a></p>
+<p align="center"> 
+ <img align="center" src="https://profile-counter.glitch.me/{SL-Alpha-X}/count.svg"  height="40" width="450" />
+</p>
 
 ---
- ___
+
+<br> <br>
+---
+
+ <p align="center">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/edit/main/README.md">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+CONTACTC+ME+ON+>>"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+ ---
+
+<p align="center">
+<a href="https://t.me/SL_Alpha_X" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="wa.me/94772978164" target="blank"><img align="center" src="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/whatsapp.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
