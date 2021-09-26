@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/README.md">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=30&width=300&lines=Hello+Im+MALINDU"
             alt="Typing SVG"
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/README.md">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=30&width=330&lines=Wlcm+To+My+Profile+🚀"
             alt="Typing SVG"
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/README.md">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=28&width=495&lines=<Creating+New+Alpha-X+WA+Bot>"
             alt="Typing SVG"
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/README.md">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=35&width=400&lines=💝+<+<+Alpha+>+>+🍁"
             alt="Typing SVG"
@@ -61,7 +61,7 @@
 ---
 
  <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/README.md">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=30&width=500&lines=📚+Owner+-+@SL-Alpha-X-Team+💡"
             alt="Typing SVG"
@@ -81,7 +81,7 @@
 ---
 
  <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/README.md">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+Alpha's+github+stats+>>"
             alt="Typing SVG"
@@ -96,7 +96,7 @@
 ---
 
  <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/README.md">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+Most+used+languages+>>"
             alt="Typing SVG"
@@ -109,7 +109,7 @@
 ---
 
  <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/README.md">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=25&width=800&lines=Aaahhhhhh+!!+My+contribution+grapgh+is+getting+eaten...+😶"
             alt="Typing SVG"
@@ -130,7 +130,7 @@
 ---
 
  <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/README.md">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=36&width=500&lines=<<+Visitors+Count+>>"
             alt="Typing SVG"
@@ -152,7 +152,7 @@
 ---
 
  <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/README.md">
+    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+CONTACTC+ME+ON+>>"
             alt="Typing SVG"
