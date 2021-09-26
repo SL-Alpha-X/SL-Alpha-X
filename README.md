@@ -104,7 +104,9 @@
     </a>
 </p>
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=SL-Alpha-X&theme=dark&show_icons=true)
+<p align="center"> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SL-Alpha-X&theme=dark&show_icons=true"  height="150" width="300" />
+</p>
 
 ---
 
