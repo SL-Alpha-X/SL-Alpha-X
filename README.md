@@ -1,5 +1,33 @@
 
-<h1 align="center"><b>🇱🇰 Hello! Im MALINDU Wlcm To My Profile ⚡</b></h1> 
+<!---------- Typing SVG ---------->
+<p align="center">
+    <a href="https://avatars.githubusercontent.com/u/85664936?v=10">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=300&lines=Hello+Im+MALINDU"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+<!---------- Typing SVG ---------->
+<p align="center">
+    <a href="https://avatars.githubusercontent.com/u/8664936?v=4">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=330&lines=Wlcm+To+My+Profile+🚀"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+<!---------- Typing SVG ---------->
+<p align="center">
+    <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=28&width=330&lines=....................."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"width="50" /> </a>
