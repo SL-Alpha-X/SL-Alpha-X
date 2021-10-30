@@ -1,4 +1,3 @@
-
 <p align="center">
     <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
@@ -35,7 +34,7 @@
 <p align="center">
     <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=35&width=400&lines=💝+<+<+Alpha+>+>+🍁"
+            src="https://readme-typing-svg.herokuapp.com?size=35&width=400&lines=🌟+<+<+Alpha+>+>+🍁"
             alt="Typing SVG"
         />
     </a>
@@ -53,7 +52,7 @@
 <br> <br> 
 
 <p align="center">     
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=300px>
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=150px>
 </p>
 
 <br>
@@ -69,13 +68,13 @@
     </a>
 </p>
 
-<p align="center"><a href="https://github.com/SL-Alpha-X"><img src="https://telegra.ph/file/ae455607c0dd712047a65.jpg" width="300"></a></p>
+<p align="center"><a href="https://github.com/SL-Alpha-X"><img src="https://telegra.ph/file/f853bf616c96c0dd0519c.jpg" width="150"></a></p>
 
 
 ---
 
 <p align="center"> 
- <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" height="450" width="900" />
+ <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" height="200" width="400" />
 </p>
 
 ---
@@ -145,7 +144,7 @@
 ---
  
 <p align="center"> 
- <img align="center" src="https://profile-counter.glitch.me/{SL-Alpha-X}/count.svg"  height="40" width="450" />
+ <img align="center" src="https://profile-counter.glitch.me/{SL-Alpha-X}/count.svg"  height="30" width="350" />
 </p>
 
 ---
@@ -163,6 +162,30 @@
 </p>
 
  ---
+ 
+<details>
+    <summary><b>🌏️ About Me </b></summary><br/>
+
+Hi, my name is Malindu. (SL-Alpha 😉)
+
+Just a sad developer. 😌
+
+14 yeas old. From Sri Lanka. 🤚
+
+I'm still learning java script. 💫
+
+Studying at Taxila Central College Horana. 💭
+
+We hope to bring a super bot to WhatsApp soon. 
+[Alpha-X-WA-Bot] 🤖
+
+My future hope is to become a software engineer. 😽
+
+If you have any question for me ı put my contact information above. 🙂
+
+</details>
+
+---
 
 <p align="center">
 <a href="https://t.me/SL_Alpha_X" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
