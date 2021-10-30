@@ -49,7 +49,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 
-<br> <br> 
+<br>
 
 <p align="center">
   <a href="https://github.com/SL-Alpha-X">
@@ -124,7 +124,7 @@
 
 ---
 <details>
-   <summary align="center"><h1 align="center"><b>📣 Visitors Count 🔎</b></h1></summary>
+   <summary align="center"><h3 align="center"><b>📣 Visitors Count 🔎</b></h3></summary>
 
 <br>
 
