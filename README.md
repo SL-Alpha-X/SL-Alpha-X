@@ -51,6 +51,21 @@
 
 <br> <br> 
 
+<p align="center">
+  <a href="https://github.com/SL-Alpha-X">
+    <img src="https://komarev.com/ghpvc/?username=SL-Alpha-X&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+
+  </a>
+  <a href="https://github.com/SL-Alpha-X?tab=stars">
+    <img src="https://img.shields.io/github/stars/SL-Alpha-X?color=ff69b4&label=Stargazers&style=plastic">
+
+  </a>
+  <a href="https://github.com/SL-Alpha-X?tab=followers">
+    <img src="https://img.shields.io/github/followers/SL-Alpha-X?color=ff69b4&label=Followers&style=plastic">
+
+  </a>
+</p>
+
 <p align="center">     
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=150px>
 </p>
@@ -108,8 +123,8 @@
 <br>
 
 ---
-
-<h1 align="center"><b>📣 Visitors Count 🔎</b></h1>
+<details>
+   <summary align="center"><h1 align="center"><b>📣 Visitors Count 🔎</b></h1></summary>
 
 <br>
 
@@ -120,6 +135,7 @@
 </p>
 
 ---
+</details>
 
 <br> <br>
 
@@ -148,6 +164,8 @@ If you have any question for me ı put my contact information above. 🙂
 </details>
 
 ---
+
+<br>
 
 <h1 align="center"><b>✌️ Contact Me 💭</b></h1>
 
