@@ -59,14 +59,7 @@
 
 ---
 
- <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=500&lines=📚+Owner+-+@SL-Alpha-X-Team+💡"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+<h1 align="center"><b>💫 Owner @SL-Alpha-X-Team 😉</b></h1>
 
 <p align="center"><a href="https://github.com/SL-Alpha-X"><img src="https://telegra.ph/file/f853bf616c96c0dd0519c.jpg" width="150"></a></p>
 
@@ -79,14 +72,7 @@
 
 ---
 
- <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+Alpha's+github+stats+>>"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+<h1 align="center"><b>✅ My Github Stats 📉</b></h1>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SL-Alpha-X&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Alpha's Github Stats">
@@ -94,14 +80,7 @@
 
 ---
 
- <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+Most+used+languages+>>"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+<h1 align="center"><b>🌏 Most used languages 📨</b></h1>
 
 <p align="center"> 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SL-Alpha-X&theme=dark&show_icons=true"  height="150" width="300" />
@@ -130,14 +109,7 @@
 
 ---
 
- <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=36&width=500&lines=<<+Visitors+Count+>>"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+<h1 align="center"><b>📣 Visitors Count 🔎</b></h1>
 
 <br>
 
@@ -150,27 +122,17 @@
 ---
 
 <br> <br>
----
-
- <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=35&width=500&lines=<<+CONTACTC+ME+ON+>>"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
 
  ---
  
 <details>
-    <summary><b>🌏️ About Me </b></summary><br/>
+    <summary align="center"><b><h3>💡 •• •• About Me •• •• 💡 </h3></b></summary><br/>
 
 Hi, my name is Malindu. (SL-Alpha 😉)
 
 Just a sad developer. 😌
 
-14 yeas old. From Sri Lanka. 🤚
+14 yeas old. From Sri Lanka. 🇱🇰 
 
 I'm still learning java script. 💫
 
@@ -186,6 +148,8 @@ If you have any question for me ı put my contact information above. 🙂
 </details>
 
 ---
+
+<h1 align="center"><b>✌️ Contact Me 💭</b></h1>
 
 <p align="center">
 <a href="https://t.me/SL_Alpha_X" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
