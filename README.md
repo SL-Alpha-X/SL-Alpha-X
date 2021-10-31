@@ -94,7 +94,7 @@ Official Releasing Account | My Partner | My Account
 ---
 
 <details>
-    <summary align="center">&#127942 <b> GitHub Awards 📑</b></summary><br/>
+    <summary align="center"><h4>&#127942 <b> GitHub Awards 📑</b></h4></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=SL-Alpha-X)
 
@@ -103,7 +103,7 @@ Official Releasing Account | My Partner | My Account
 ---
 
 <details>
-    <summary align="center"> <b>⚙️ GitHub Activity (Public Data) 🔰</b></summary><br/>
+    <summary align="center"><h4> <b>⚙️ GitHub Activity (Public Data) 🔰</b></h4></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/SL-Alpha-X?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
@@ -112,7 +112,7 @@ Official Releasing Account | My Partner | My Account
 ---
  
 <details>
-    <summary align="center"> <b>💡 •• •• About Me •• •• 💡</b></summary><br/>
+    <summary align="center"><h4> <b>💡 •• •• About Me •• •• 💡</b></h4></summary><br/>
 
 Hi, my name is Malindu. (SL-Alpha 😉)
 
