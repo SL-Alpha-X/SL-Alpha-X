@@ -105,36 +105,16 @@
 
 ---
 
- <p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=800&lines=Aaahhhhhh+!!+My+contribution+grapgh+is+getting+eaten...+😶"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-
-<br> 
-
-<p align="center"> 
- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
-</p>
-
----
-
-<br>
-
----
 <details>
-    <summary align="center"> <b>📣 Visitors Count 🔎</b></summary><br/>
+    <summary align="center"> <b>⚙️ GitHub Activity (Public Data) 🔰</b></summary><br/>
 
-<p align="center"> 
- <img align="center" src="https://profile-counter.glitch.me/{SL-Alpha-X}/count.svg"  height="30" width="350" />
-</p>
+![Metrics](https://metrics.lecoq.io/SL-Alpha-X?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=SL-Alpha-X-Team&repo=Youtube-Downloader-For-TG)](https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG)
 
 </details>
 
- ---
+---
  
 <details>
     <summary align="center"> <b>💡 •• •• About Me •• •• 💡</b></summary><br/>
