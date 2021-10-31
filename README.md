@@ -66,15 +66,13 @@
   </a>
 </p>
 
-<p align="center">     
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=150px>
-</p>
-
-<br>
-
 ---
 
 <h1 align="center"><b>💫 Owner @SL-Alpha-X-Team 😉</b></h1>
+
+[![SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team.png?size=75)](https://github.com/SL-Alpha-X-Team)
+----|
+Official Releasing Account
 
 <p align="center"> 
  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" height="200" width="400" />
@@ -87,12 +85,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SL-Alpha-X&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Alpha's Github Stats">
 </p>
-
----
-
-<h1 align="center"><b>🌏 Most used languages 📨</b></h1>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SL-Alpha-X&show_icons=true&layout=compact&theme=nightowl" alt="SL-Alpha-X" /></p>
 
 ---
 
@@ -109,8 +101,6 @@
     <summary align="center"> <b>⚙️ GitHub Activity (Public Data) 🔰</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/SL-Alpha-X?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=SL-Alpha-X-Team&repo=Youtube-Downloader-For-TG)](https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG)
 
 </details>
 
