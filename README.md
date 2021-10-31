@@ -76,11 +76,6 @@
 
 <h1 align="center"><b>💫 Owner @SL-Alpha-X-Team 😉</b></h1>
 
-<p align="center"><a href="https://github.com/SL-Alpha-X"><img src="https://telegra.ph/file/f853bf616c96c0dd0519c.jpg" width="150"></a></p>
-
-
----
-
 <p align="center"> 
  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" height="200" width="400" />
 </p>
