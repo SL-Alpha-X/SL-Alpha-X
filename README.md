@@ -92,9 +92,16 @@
 
 <h1 align="center"><b>🌏 Most used languages 📨</b></h1>
 
-<p align="center"> 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SL-Alpha-X&theme=dark&show_icons=true"  height="150" width="300" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SL-Alpha-X&show_icons=true&layout=compact&theme=nightowl" alt="SL-Alpha-X" /></p>
+
+---
+
+<details>
+    <summary align="center">&#127942 <b> GitHub Awards 📑</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=SL-Alpha-X)
+
+</details>
 
 ---
 
@@ -119,25 +126,18 @@
 
 ---
 <details>
-   <summary align="center"><h3 align="center"><b>📣 Visitors Count 🔎</b></h3></summary>
+    <summary align="center"> <b>📣 Visitors Count 🔎</b></summary><br/>
 
-<br>
-
----
- 
 <p align="center"> 
  <img align="center" src="https://profile-counter.glitch.me/{SL-Alpha-X}/count.svg"  height="30" width="350" />
 </p>
 
----
 </details>
-
-<br> <br>
 
  ---
  
 <details>
-    <summary align="center"><b><h3>💡 •• •• About Me •• •• 💡 </h3></b></summary><br/>
+    <summary align="center"> <b>💡 •• •• About Me •• •• 💡</b></summary><br/>
 
 Hi, my name is Malindu. (SL-Alpha 😉)
 
@@ -167,4 +167,5 @@ If you have any question for me ı put my contact information above. 🙂
 <p align="center">
 <a href="https://t.me/SL_Alpha_X" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://wa.me/94772978164" target="blank"><img align="center" src="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/whatsapp.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="malinduprabanjanaperis@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="AlphaX" height="40" width="50" /></a>
 </p>
