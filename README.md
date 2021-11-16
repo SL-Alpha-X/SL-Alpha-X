@@ -70,15 +70,6 @@
 
 <h1 align="center"><b>💫 Owner @SL-Alpha-X-Team 😉</b></h1>
 
-<details>
-    <summary align="center"> <b>🔏 Info >></b></summary><br/>
-
-[![SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team.png?size=70)](https://github.com/SL-Alpha-X-Team) | [![HansakaBro](https://github.com/HansakaBro.png?size=75)](https://github.com/HansakaBro) | [![SL-Alpha-X](https://github.com/SL-Alpha-X.png?size=75)](https://github.com/SL-Alpha-X)
-----|----|----|
-Official Releasing Account | My Partner | My Account
-
-</details>
-
 <p align="center"> 
  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" height="200" width="400" />
 </p>
