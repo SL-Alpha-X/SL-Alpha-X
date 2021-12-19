@@ -1,3 +1,5 @@
+<div align="center">
+
 ![My card name](https://cardivo.vercel.app/api?name=SL-Alpha-X%20😎&description=Never%20Give%20Up🙄&image=https://telegra.ph/file/185c241c27145c2520a94.jpg?v=4&backgroundColor=#white&github=SL-Alpha-X&pattern=leaf&colorPattern=white)
 
 <p align="center">
@@ -137,3 +139,4 @@ If you have any question for me ı put my contact information above. 🙂
 <a href="https://wa.me/94772978164" target="blank"><img align="center" src="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/whatsapp.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="malinduprabanjanaperis@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="AlphaX" height="40" width="50" /></a>
 </p>
+</div>
