@@ -120,7 +120,7 @@ I'm still learning java script. 💫
 Studying at Taxila Central College Horana. 💭
 
 We hope to bring a super bot to WhatsApp soon. 
-[Alpha-X-WA-Bot] 🤖
+[Alpha-X-WA-Bot](https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer) 🤖
 
 My future hope is to become a software engineer. 😽
 
