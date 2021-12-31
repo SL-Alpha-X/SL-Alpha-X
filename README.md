@@ -23,7 +23,7 @@
 <p align="center">
     <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=28&width=495&lines=<Creating+New+Alpha-X+WA+Bot>"
+            src="https://readme-typing-svg.herokuapp.com?size=28&width=495&lines=<Happy+New+Year+2022+!!!>"
             alt="Typing SVG"
         />
     </a>
