@@ -1,6 +1,6 @@
 <div align="center">
 
-![My card name](https://cardivo.vercel.app/api?name=SL-Alpha-X%20😎&description=Alpha-X-WA-Bot%20Release%20Tommorow😈&image=https://telegra.ph/file/185c241c27145c2520a94.jpg?v=4&backgroundColor=#white&github=SL-Alpha-X&pattern=leaf&colorPattern=white)
+![My card name](https://cardivo.vercel.app/api?name=SL-Alpha-X&description=Newer+Give+Up+😏&image=https://telegra.ph/file/185c241c27145c2520a94.jpg?v=4&backgroundColor=#white&github=SL-Alpha-X&pattern=leaf&colorPattern=white)
 
 <p align="center">
     <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
@@ -119,8 +119,7 @@ I'm still learning java script. 💫
 
 Studying at Taxila Central College Horana. 💭
 
-We hope to bring a super bot to WhatsApp soon. 
-[Alpha-X-WA-Bot](https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer) 🤖
+We released a bot to WhatsApp named [Alpha-X-WA-Bot](https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer) 🤖
 
 My future hope is to become a software engineer. 😽
 
