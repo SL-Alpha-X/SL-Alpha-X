@@ -136,6 +136,6 @@ If you have any question for me ı put my contact information above. 🙂
 <p align="center">
 <a href="https://t.me/SL_Alpha_X" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://wa.me/94772978164" target="blank"><img align="center" src="https://github.com/SL-Alpha-X/SL-Alpha-X/blob/main/whatsapp.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="malinduprabanjanaperis@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="AlphaX" height="40" width="50" /></a>
+<a href="https://malinduprabanjanaperis@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="AlphaX" height="40" width="50" /></a>
 </p>
 </div>
