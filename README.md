@@ -20,15 +20,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=28&width=495&lines=<Happy+New+Year+2022+!!!>"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-
 <p align='center'>
   <a href="github.com/SL-Alpha-X" > <img src="https://c.tenor.com/lUFliafCu_MAAAAd/hello.gif"width="100" /> </a>
 </p>
