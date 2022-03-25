@@ -104,7 +104,7 @@ Hi, my name is Malindu. (SL-Alpha 😉)
 
 Just a sad developer. 😌
 
-14 yeas old. From Sri Lanka. 🇱🇰 
+15 yeas old. From Sri Lanka. 🇱🇰 
 
 I'm still learning java script. 💫
 
