@@ -1,16 +1,5 @@
 <div align="center">
 
-![My card name](https://cardivo.vercel.app/api?name=SL-Alpha-X&description=Newer+Give+Up+😏&image=https://telegra.ph/file/185c241c27145c2520a94.jpg?v=4&backgroundColor=#white&github=SL-Alpha-X&pattern=leaf&colorPattern=white)
-
-<p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=300&lines=Hello+Im+MALINDU"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-
 <p align="center">
     <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
         <img
@@ -25,15 +14,6 @@
 </p>
 
 ---
-
-<p align="center">
-    <a href="https://github.com/SL-Alpha-X/SL-Alpha-X">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=35&width=400&lines=🌟+<+<+Alpha+>+>+🍁"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
@@ -92,29 +72,6 @@
     <summary align="center"><h4> <b>⚙️ GitHub Activity (Public Data) 🔰</b></h4></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/SL-Alpha-X?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
-
-</details>
-
----
- 
-<details>
-    <summary align="center"><h4> <b>💡 •• •• About Me •• •• 💡</b></h4></summary><br/>
-
-Hi, my name is Malindu. (SL-Alpha 😉)
-
-Just a sad developer. 😌
-
-15 yeas old. From Sri Lanka. 🇱🇰 
-
-I'm still learning java script. 💫
-
-Studying at Taxila Central College Horana. 💭
-
-We released a bot to WhatsApp named [Alpha-X-WA-Bot](https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer) 🤖
-
-My future hope is to become a software engineer. 😽
-
-If you have any question for me ı put my contact information above. 🙂
 
 </details>
 
