@@ -51,7 +51,7 @@
 
 ---
 
-<h1 align="center"><b>✅ My Github Stats 📉</b></h1>
+<h1 align="center"><b>🪧 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</b></h1>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SL-Alpha-X&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Alpha's Github Stats">
@@ -60,16 +60,18 @@
 ---
 
 <details>
-    <summary align="center"><h4>&#127942 <b> GitHub Awards 📑</b></h4></summary><br/>
+    <summary align="center"><h4><b>💸 ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅꜱ </b></h4></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=SL-Alpha-X)
+<p align="center">
+    <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SL-Alpha-X&theme=alduin" alt="Alpha's github status" /></a> 
+</p>
 
 </details>
 
 ---
 
 <details>
-    <summary align="center"><h4> <b>⚙️ GitHub Activity (Public Data) 🔰</b></h4></summary><br/>
+    <summary align="center"><h4><b>🔐 ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</b></h4></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/SL-Alpha-X?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
@@ -79,7 +81,7 @@
 
 <br>
 
-<h1 align="center"><b>✌️ Contact Me 💭</b></h1>
+<h1 align="center"><b>💭 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ</b></h1>
 
 <p align="center">
 <a href="https://t.me/SL_Alpha_X" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
