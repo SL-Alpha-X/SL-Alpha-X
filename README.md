@@ -46,7 +46,7 @@
 <h1 align="center"><b>💫 Owner <a href="https://github.com/SL-Alpha-X-Team">@SL-Alpha-X-Team</a> 🏂</b></h1>
 
 <p align="center"> 
- <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" height="200" width="400" />
+ <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" height="200" width="230">
 </p>
 
 ---
