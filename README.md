@@ -16,12 +16,6 @@
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="25px" height="25px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="25px" height="25px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 
 <br>
